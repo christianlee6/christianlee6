@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I’m currently working on the following projects: 
+### EatIt
+### RiftPay
+### SpotShop
+
 <!--
 **christianlee6/christianlee6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
