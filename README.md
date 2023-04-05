@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! My name is Christian and I am an aspiring Software Engineer. I love working on new projects and challenging myself with different technologies. I really enjoy getting to meet new pepole and collaborating with them to solve challenges. 
 
 I’m currently working on the following projects: 
 ### EatIt
